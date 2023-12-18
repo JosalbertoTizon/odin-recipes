@@ -1,0 +1,1 @@
+This project consists of a simple recipes site to train html skills
