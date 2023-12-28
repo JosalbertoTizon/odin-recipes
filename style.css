@@ -1,0 +1,33 @@
+body {
+  font-family: 'Times New Roman', sans-serif;
+}
+
+ul, ol {
+  font-size: 18px;
+}
+
+ul.pizza, 
+ul.hamburguer {
+  background-color: red;
+}
+
+ol.pizza,
+ol.hamburguer,
+ol.lasagna {
+  background-color: yellow;
+}
+
+ul.lasagna {
+  background-color: brown;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.top-image {
+  width: 300px;
+  height: auto;
+}
+
+
